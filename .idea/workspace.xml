@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dad13f5-9f2f-4bcb-a7cc-7645a17bc0f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1vSzKpFlgHdozIOnQbX1uukwrDy" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../anilroom" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dad13f5-9f2f-4bcb-a7cc-7645a17bc0f9" name="Default Changelist" comment="" />
+      <created>1626570216486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626570216486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="145" y="0" key="#Project_Structure" timestamp="1626578613368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="145" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1626578613368" />
+    <state x="119" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626579252088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="119" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1626579252088" />
+    <state x="445" y="118" key="FileChooserDialogImpl" timestamp="1626579622191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="445" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1626579622191" />
+    <state x="166" y="8" key="SettingsEditor" timestamp="1626578738201">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="166" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1626578738201" />
+  </component>
+</project>
